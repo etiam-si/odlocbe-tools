@@ -1,0 +1,20 @@
+[
+    {
+        "fileName": "abc_2025.pdf",
+        "stevilkaDokumenta": "123-234/2026",
+        "emso": "0404006500335",
+        "emsoIsValid": true
+    },
+    {
+        "fileName": "def_2025.pdf",
+        "stevilkaDokumenta": "123-234/2026",
+        "emso": "0404006500335",
+        "emsoIsValid": true
+    },
+    {
+        "fileName": "narobe.pdf",
+        "stevilkaDokumenta": "123-234/2026",
+        "emso": "1404006500335",
+        "emsoIsValid": false
+    }
+]
